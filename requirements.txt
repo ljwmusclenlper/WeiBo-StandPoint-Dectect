@@ -1,0 +1,10 @@
+flyai-gpu
+keras==2.2.4
+numpy
+Pillow
+tensorflow-gpu==1.13.1
+sklearn
+synonyms
+tflearn
+gensim
+jieba
